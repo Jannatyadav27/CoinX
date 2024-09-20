@@ -9,3 +9,11 @@
 
 ## Project Overview
 ### The Cryptocurrency Trading App is a React Native application designed to provide users with a seamless experience for tracking and managing their cryptocurrency portfolio. With a clean and intuitive interface, users can view transaction history, exchange currencies, and analyze market trends.
+
+## Key Features
+### Home Screen
+<li>Profile Overview: Features a user profile section with a greeting and notification bell.</li>
+<li>Current Balance Display: Prominently shows the user's total balance.</li>
+<li>Action Buttons: Quick access to buy, sell, and transfer options.</li>
+<li>Performance Chart: Visual representation of portfolio performance over time.</li>
+<li>Cryptocurrency Cards: Detailed view of various cryptocurrencies held in the portfolio.</li>
