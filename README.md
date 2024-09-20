@@ -1,6 +1,8 @@
 # CoinX
 
-![Home page](https://github.com/Jannatyadav27/CoinX/blob/main/assets/Homepage.jpg)
-![Exchange page page](https://github.com/Jannatyadav27/CoinX/blob/main/assets/ExcgangePage.jpg)
-![Market Analysis page](https://github.com/Jannatyadav27/CoinX/blob/main/assets/Market%20Analysis.jpg)
-![Profile page](https://github.com/Jannatyadav27/CoinX/blob/main/assets/profile.jpg)
+<div style="display: flex; flex-direction: row; gap: 10px;">
+  <img src="https://github.com/Jannatyadav27/CoinX/blob/main/assets/Homepage.jpg" alt="Home page" width="300">
+  <img src="https://github.com/Jannatyadav27/CoinX/blob/main/assets/ExcgangePage.jpg" alt="Exchange page" width="300">
+  <img src="https://github.com/Jannatyadav27/CoinX/blob/main/assets/Market%20Analysis.jpg" alt="Market Analysis page" width="300">
+  <img src="https://github.com/Jannatyadav27/CoinX/blob/main/assets/profile.jpg" alt="Profile page" width="300">
+</div>
