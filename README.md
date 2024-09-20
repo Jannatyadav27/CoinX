@@ -45,8 +45,8 @@
 
 ### Getting Started
 ###### To run this application locally:
-1.git clone https://github.com/Jannatyadav27/CoinX.git
-2.cd CoinX
-3.npm install
-4.npm start
+###### 1.git clone https://github.com/Jannatyadav27/CoinX.git
+###### 2.cd CoinX
+###### 3.npm install
+###### 4.npm start
 
